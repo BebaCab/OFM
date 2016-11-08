@@ -11,10 +11,7 @@
       <owl:Class rdf:about="http://www.ontologies.com/Ontology3197.owl#Component"/>
     </rdfs:subClassOf>
   </owl:Class>
-  <owl:Class rdf:about="http://www.ontologies.com/Ontology3197.owl#Simple_Path">
-    <rdfs:subClassOf>
-      <owl:Class rdf:about="http://www.ontologies.com/Ontology3197.owl#Single_Path"/>
-    </rdfs:subClassOf>
+
   
     </rdfs:subClassOf>
   </owl:Class>
